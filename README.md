@@ -1,2 +1,0 @@
-# uotise.github.io
-MyWeb
